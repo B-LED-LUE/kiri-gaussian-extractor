@@ -1,0 +1,12 @@
+numpy
+opencv-python
+plyfile
+torch
+torchvision
+Pillow
+basicsr
+realesrgan
+
+# Install from source:
+# gsplat: https://github.com/nerfstudio-project/gsplat
+# sam2:   https://github.com/facebookresearch/sam2
